@@ -30,5 +30,3 @@ void yyerror(char *);
 int yywrap() {
   return 1;
 }
-
-
